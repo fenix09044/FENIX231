@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/max2007killer/script-quest-1-2-3/main/.luA
+https://raw.githubusercontent.com/darkwolf/script-quest-1-2-3/main/.lua
